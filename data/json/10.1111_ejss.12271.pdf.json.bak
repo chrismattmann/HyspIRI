@@ -1,0 +1,414 @@
+log4j: reset attribute= "false".
+log4j: Threshold ="null".
+log4j: Retreiving an instance of org.apache.log4j.Logger.
+log4j: Setting [ProgressAppender] additivity to [false].
+log4j: Level value for ProgressAppender is  [INFO].
+log4j: ProgressAppender level set to INFO
+log4j: Class name: [org.apache.log4j.ConsoleAppender]
+log4j: Parsing layout of class: "org.apache.log4j.PatternLayout"
+log4j: Setting property [conversionPattern] to [%m].
+log4j: Adding appender named [noEolAppender] to category [ProgressAppender].
+log4j: Retreiving an instance of org.apache.log4j.Logger.
+log4j: Setting [ProgressDone] additivity to [false].
+log4j: Level value for ProgressDone is  [INFO].
+log4j: ProgressDone level set to INFO
+log4j: Class name: [org.apache.log4j.ConsoleAppender]
+log4j: Parsing layout of class: "org.apache.log4j.PatternLayout"
+log4j: Setting property [conversionPattern] to [%m%n].
+log4j: Adding appender named [eolAppender] to category [ProgressDone].
+log4j: Level value for root is  [INFO].
+log4j: root level set to INFO
+log4j: Class name: [org.apache.log4j.ConsoleAppender]
+log4j: Parsing layout of class: "org.apache.log4j.PatternLayout"
+log4j: Setting property [conversionPattern] to [%d{dd MMM yyyy HH:mm:ss} %5p %c{1} - %m%n].
+log4j: Adding appender named [consoleAppender] to category [root].
+14 Oct 2015 00:18:11  INFO ClearNLPDependencyParserAE - using Morphy analysis? true
+Loading configuration.
+Loading feature templates.
+Loading lexica.
+Loading model:
+........................................................................................
+14 Oct 2015 00:18:22  INFO TokenizerAnnotatorPTB - Initializing org.apache.ctakes.core.ae.TokenizerAnnotatorPTB
+14 Oct 2015 00:18:22  INFO ContextDependentTokenizerAnnotator - Finite state machines loaded.
+14 Oct 2015 00:18:22  INFO ConstituencyParser - Initializing parser...
+14 Oct 2015 00:18:25  INFO ContextAnnotator - SCOPE ORDER: [1, 3]
+14 Oct 2015 00:18:25  INFO StatusContextAnalyzer - initBoundaryData() called for ContextInitializer
+14 Oct 2015 00:18:25  INFO ContextAnnotator - SCOPE ORDER: [1, 3]
+14 Oct 2015 00:18:25  INFO NegationContextAnalyzer - initBoundaryData() called for ContextInitializer
+14 Oct 2015 00:18:26  INFO SentenceDetector - Sentence detector model file: org/apache/ctakes/core/sentdetect/sd-med-model.zip
+14 Oct 2015 00:18:27  INFO POSTagger - POS tagger model file: org/apache/ctakes/postagger/models/mayo-pos.zip
+Loading configuration.
+Loading feature templates.
+Loading model:
+.
+Loading configuration.
+Loading feature templates.
+Loading lexica.
+Loading model:
+...
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.......
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+..........
+Loading model:
+.
+Loading model:
+...
+Loading model:
+...
+Loading model:
+.
+Loading model:
+.
+Loading model:
+....
+Loading model:
+.
+Loading model:
+.
+Loading model:
+...
+Loading model:
+.
+Loading model:
+.....
+Loading model:
+.
+Loading model:
+.
+Loading model:
+...
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+...
+Loading model:
+........
+Loading model:
+...
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+....
+Loading model:
+.
+Loading model:
+........
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+....
+Loading model:
+...
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.....
+Loading model:
+...
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+..............
+Loading model:
+.
+Loading model:
+...
+Loading model:
+.
+Loading model:
+.
+Loading model:
+....
+Loading model:
+....
+Loading model:
+.
+Loading model:
+....
+Loading model:
+.
+Loading model:
+...
+Loading model:
+.
+Loading model:
+....
+Loading model:
+.......
+Loading model:
+.
+Loading model:
+...
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+....
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+....
+Loading model:
+.
+Loading model:
+...
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+...
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+...
+Loading model:
+.
+Loading model:
+...
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+...
+Loading model:
+.
+Loading model:
+.....
+Loading model:
+......
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+....
+Loading model:
+.
+Loading model:
+.
+Loading model:
+....
+Loading model:
+.
+Loading model:
+.
+Loading model:
+...
+Loading model:
+.
+Loading model:
+.
+Loading model:
+...
+Loading model:
+.
+Loading model:
+....
+Loading model:
+...
+Loading model:
+.
+Loading model:
+....
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+...
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+...
+Loading model:
+.
+Loading model:
+.......
+Loading model:
+.
+Loading model:
+.
+Loading model:
+....
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.......
+Loading model:
+.
+Loading model:
+.
+Loading model:
+.
+Loading model:
+...
+Loading model:
+.
+Loading configuration.
+Loading feature templates.
+Loading lexica.
+Loading model:
+................................
+Loading model:
+.............................
+14 Oct 2015 00:18:30  INFO Chunker - Chunker model file: org/apache/ctakes/chunker/models/chunker-model.zip
+14 Oct 2015 00:18:32  INFO JdbcConnectionResourceImpl - Connection established to: jdbc:hsqldb:res:org/apache/ctakes/dictionary/lookup/umls2011ab/umls
+14 Oct 2015 00:18:32  INFO JdbcConnectionResourceImpl - Connection established to: jdbc:hsqldb:res:org/apache/ctakes/dictionary/lookup/rxnorm-hsqldb/umls
+14 Oct 2015 00:18:32  INFO JdbcConnectionResourceImpl - Connection established to: jdbc:hsqldb:res:org/apache/ctakes/dictionary/lookup/orange_book_hsqldb/umls
+14 Oct 2015 00:18:32  INFO UmlsDictionaryLookupAnnotator - Parsing descriptor: /usr/local/apache-ctakes-3.2.2/resources/org/apache/ctakes/dictionary/lookup/LookupDesc_Db.xml
+14 Oct 2015 00:18:32  INFO FirstTokenPermLookupInitializerImpl - Exclusion tagset loaded: [dt, to, rp, ls, pos, md, vbd, vbg, vb, ex, vbp, vbn, pdt, vbz, wp, wrb, in, wps, pp$, prp$, wdt, prp, pp, cc, cd]
+14 Oct 2015 00:18:32  INFO FirstTokenPermLookupInitializerImpl - Exclusion tagset loaded: [to, dt, rp, ex, vbp, ls, vbn, pdt, wp, vbz, wrb, in, pos, wps, md, wdt, pp$, vbd, vb, vbg, pp, cc, cd]
+14 Oct 2015 00:18:32  INFO UmlsDictionaryLookupAnnotator - Using ctakes.umlsaddr: https://uts-ws.nlm.nih.gov/restful/isValidUMLSUser: chrismattmann
+14 Oct 2015 00:18:34  INFO LvgCmdApiResourceImpl - Loading NLM Norm and Lvg with config file = /usr/local/apache-ctakes-3.2.2/resources/org/apache/ctakes/lvg/data/config/lvg.properties
+14 Oct 2015 00:18:34  INFO LvgCmdApiResourceImpl -   config file absolute path = /usr/local/apache-ctakes-3.2.2/resources/org/apache/ctakes/lvg/data/config/lvg.properties
+14 Oct 2015 00:18:34  INFO LvgCmdApiResourceImpl - cwd = /Users/mattmann/Desktop/HyspIRI
+14 Oct 2015 00:18:34  INFO LvgCmdApiResourceImpl - cd /usr/local/apache-ctakes-3.2.2/resources/org/apache/ctakes/lvg/
+14 Oct 2015 00:18:34  INFO LvgCmdApiResourceImpl - cd /Users/mattmann/Desktop/HyspIRI
+14 Oct 2015 00:18:34  INFO SentenceDetector - Starting processing.
+14 Oct 2015 00:18:35  INFO TokenizerAnnotatorPTB - process(JCas) in org.apache.ctakes.core.ae.TokenizerAnnotatorPTB
+14 Oct 2015 00:18:35  INFO LvgAnnotator - process(JCas)
+14 Oct 2015 00:18:37  INFO ContextDependentTokenizerAnnotator - process(JCas)
+14 Oct 2015 00:18:37  INFO POSTagger - process(JCas)
+14 Oct 2015 00:18:41  INFO Chunker -  process(JCas)
+14 Oct 2015 00:18:42  INFO ChunkAdjuster -  process(JCas)
+14 Oct 2015 00:18:42  INFO ChunkAdjuster -  process(JCas)
+14 Oct 2015 00:18:42  INFO CopyAnnotator - process(JCas)
+14 Oct 2015 00:18:42  INFO OverlapAnnotator - process(JCas)
+14 Oct 2015 00:18:43  INFO UmlsDictionaryLookupAnnotator - process(JCas)
+14 Oct 2015 00:19:03  INFO MaxentParserWrapper - Started processing: null
+14 Oct 2015 00:19:52  INFO MaxentParserWrapper - Done parsing: null
+[{"Content-Length":"884527","Content-Type":"application/pdf","Creation-Date":"2015-10-02T04:34:39Z","Last-Modified":"2015-05-15T15:49:21Z","Last-Save-Date":"2015-05-15T15:49:21Z","WPS-ARTICLEDOI":"10.1111/ejss.12271","WPS-JOURNALDOI":"10.1111/(ISSN)1365-2389","WPS-PROCLEVEL":"3","X-Parsed-By":["org.apache.tika.parser.CompositeParser","org.apache.tika.parser.ctakes.CTAKESParser","org.apache.tika.parser.pdf.PDFParser"],"X-TIKA:content":"\u003chtml xmlns\u003d\"http://www.w3.org/1999/xhtml\"\u003e\n\u003chead\u003e\n\u003cmeta name\u003d\"access_permission:extract_for_accessibility\" content\u003d\"true\" /\u003e\n\u003cmeta name\u003d\"meta:save-date\" content\u003d\"2015-05-15T15:49:21Z\" /\u003e\n\u003cmeta name\u003d\"Content-Length\" content\u003d\"884527\" /\u003e\n\u003cmeta name\u003d\"dcterms:created\" content\u003d\"2015-10-02T04:34:39Z\" /\u003e\n\u003cmeta name\u003d\"date\" content\u003d\"2015-05-15T15:49:21Z\" /\u003e\n\u003cmeta name\u003d\"access_permission:can_modify\" content\u003d\"true\" /\u003e\n\u003cmeta name\u003d\"access_permission:modify_annotations\" content\u003d\"true\" /\u003e\n\u003cmeta name\u003d\"Creation-Date\" content\u003d\"2015-10-02T04:34:39Z\" /\u003e\n\u003cmeta name\u003d\"rgid\" content\u003d\"PB:277313637_AS:234163395624960@1432840312048\" /\u003e\n\u003cmeta name\u003d\"access_permission:fill_in_form\" content\u003d\"true\" /\u003e\n\u003cmeta name\u003d\"created\" content\u003d\"Thu Oct 01 21:34:39 PDT 2015\" /\u003e\n\u003cmeta name\u003d\"dc:format\" content\u003d\"application/pdf; version\u003d1.4\" /\u003e\n\u003cmeta name\u003d\"access_permission:can_print\" content\u003d\"true\" /\u003e\n\u003cmeta name\u003d\"xmp:CreatorTool\" content\u003d\"þÿ\" /\u003e\n\u003cmeta name\u003d\"resourceName\" content\u003d\"10.1111_ejss.12271.pdf\" /\u003e\n\u003cmeta name\u003d\"Last-Save-Date\" content\u003d\"2015-05-15T15:49:21Z\" /\u003e\n\u003cmeta name\u003d\"dc:title\" content\u003d\"Improved estimates of organic carbon using proximally sensed vis--NIR spectra corrected by piecewise direct standardization\" /\u003e\n\u003cmeta name\u003d\"WPS-ARTICLEDOI\" content\u003d\"10.1111/ejss.12271\" /\u003e\n\u003cmeta name\u003d\"access_permission:assemble_document\" content\u003d\"true\" /\u003e\n\u003cmeta name\u003d\"meta:creation-date\" content\u003d\"2015-10-02T04:34:39Z\" /\u003e\n\u003cmeta name\u003d\"dcterms:modified\" content\u003d\"2015-05-15T15:49:21Z\" /\u003e\n\u003cmeta name\u003d\"WPS-JOURNALDOI\" content\u003d\"10.1111/(ISSN)1365-2389\" /\u003e\n\u003cmeta name\u003d\"pdf:PDFVersion\" content\u003d\"1.4\" /\u003e\n\u003cmeta name\u003d\"WPS-PROCLEVEL\" content\u003d\"3\" /\u003e\n\u003cmeta name\u003d\"Last-Modified\" content\u003d\"2015-05-15T15:49:21Z\" /\u003e\n\u003cmeta name\u003d\"X-Parsed-By\" content\u003d\"org.apache.tika.parser.CompositeParser\" /\u003e\n\u003cmeta name\u003d\"X-Parsed-By\" content\u003d\"org.apache.tika.parser.ctakes.CTAKESParser\" /\u003e\n\u003cmeta name\u003d\"X-Parsed-By\" content\u003d\"org.apache.tika.parser.pdf.PDFParser\" /\u003e\n\u003cmeta name\u003d\"modified\" content\u003d\"2015-05-15T15:49:21Z\" /\u003e\n\u003cmeta name\u003d\"access_permission:can_print_degraded\" content\u003d\"true\" /\u003e\n\u003cmeta name\u003d\"xmpTPg:NPages\" content\u003d\"10\" /\u003e\n\u003cmeta name\u003d\"pdf:encrypted\" content\u003d\"false\" /\u003e\n\u003cmeta name\u003d\"access_permission:extract_content\" content\u003d\"true\" /\u003e\n\u003cmeta name\u003d\"producer\" content\u003d\"Qt 5.3.0\" /\u003e\n\u003cmeta name\u003d\"Content-Type\" content\u003d\"application/pdf\" /\u003e\n\u003ctitle\u003eImproved estimates of organic carbon using proximally sensed vis--NIR spectra corrected by piecewise direct standardization\u003c/title\u003e\n\u003c/head\u003e\n\u003cbody\u003e\u003cdiv class\u003d\"page\"\u003e\u003cp /\u003e\n\u003cp\u003eSee\tdiscussions,\tstats,\tand\tauthor\tprofiles\tfor\tthis\tpublication\tat:\thttp://www.researchgate.net/publication/277313637\n\u003c/p\u003e\n\u003cp\u003eImproved\testimates\tof\torganic\tcarbon\tusing\nproximally\tsensed\tvis–NIR\tspectra\tcorrected\tby\npiecewise\tdirect\tstandardization\nARTICLE\t\tin\t\tEUROPEAN\tJOURNAL\tOF\tSOIL\tSCIENCE\t·\tMAY\t2015\nImpact\tFactor:\t2.65\t·\tDOI:\t10.1111/ejss.12271\n\u003c/p\u003e\n\u003cp\u003eCITATION\n1\n\u003c/p\u003e\n\u003cp\u003eREADS\n67\n\u003c/p\u003e\n\u003cp\u003e3\tAUTHORS:\n\u003c/p\u003e\n\u003cp\u003eWenjun\tJi\nMcGill\tUniversity\n17\tPUBLICATIONS\t\t\t30\tCITATIONS\t\t\t\n\u003c/p\u003e\n\u003cp\u003eSEE\tPROFILE\n\u003c/p\u003e\n\u003cp\u003eRaphael\tA\tViscarra\tRossel\nThe\tCommonwealth\tScientific\tand\tIndustri…\n163\tPUBLICATIONS\t\t\t2,467\tCITATIONS\t\t\t\n\u003c/p\u003e\n\u003cp\u003eSEE\tPROFILE\n\u003c/p\u003e\n\u003cp\u003eZhou\tShi\nZhejiang\tUniversity\n55\tPUBLICATIONS\t\t\t322\tCITATIONS\t\t\t\n\u003c/p\u003e\n\u003cp\u003eSEE\tPROFILE\n\u003c/p\u003e\n\u003cp\u003eAvailable\tfrom:\tWenjun\tJi\nRetrieved\ton:\t02\tOctober\t2015\u003c/p\u003e\n\u003cp /\u003e\n\u003cdiv class\u003d\"annotation\"\u003e\u003ca href\u003d\"http://www.researchgate.net/publication/277313637_Improved_estimates_of_organic_carbon_using_proximally_sensed_visNIR_spectra_corrected_by_piecewise_direct_standardization?enrichId\u003drgreq-5711aabc-c2e2-4093-a956-54facf92b7aa\u0026amp;enrichSource\u003dY292ZXJQYWdlOzI3NzMxMzYzNztBUzoyMzQxNjMzOTU2MjQ5NjBAMTQzMjg0MDMxMjA0OA%3D%3D\u0026amp;el\u003d1_x_2\" /\u003e\u003c/div\u003e\n\u003cdiv class\u003d\"annotation\"\u003e\u003ca href\u003d\"http://www.researchgate.net/publication/277313637_Improved_estimates_of_organic_carbon_using_proximally_sensed_visNIR_spectra_corrected_by_piecewise_direct_standardization?enrichId\u003drgreq-5711aabc-c2e2-4093-a956-54facf92b7aa\u0026amp;enrichSource\u003dY292ZXJQYWdlOzI3NzMxMzYzNztBUzoyMzQxNjMzOTU2MjQ5NjBAMTQzMjg0MDMxMjA0OA%3D%3D\u0026amp;el\u003d1_x_3\" /\u003e\u003c/div\u003e\n\u003cdiv class\u003d\"annotation\"\u003e\u003ca href\u003d\"http://www.researchgate.net/?enrichId\u003drgreq-5711aabc-c2e2-4093-a956-54facf92b7aa\u0026amp;enrichSource\u003dY292ZXJQYWdlOzI3NzMxMzYzNztBUzoyMzQxNjMzOTU2MjQ5NjBAMTQzMjg0MDMxMjA0OA%3D%3D\u0026amp;el\u003d1_x_1\" /\u003e\u003c/div\u003e\n\u003cdiv class\u003d\"annotation\"\u003e\u003ca href\u003d\"http://www.researchgate.net/profile/Wenjun_Ji?enrichId\u003drgreq-5711aabc-c2e2-4093-a956-54facf92b7aa\u0026amp;enrichSource\u003dY292ZXJQYWdlOzI3NzMxMzYzNztBUzoyMzQxNjMzOTU2MjQ5NjBAMTQzMjg0MDMxMjA0OA%3D%3D\u0026amp;el\u003d1_x_4\" /\u003e\u003c/div\u003e\n\u003cdiv class\u003d\"annotation\"\u003e\u003ca href\u003d\"http://www.researchgate.net/profile/Wenjun_Ji?enrichId\u003drgreq-5711aabc-c2e2-4093-a956-54facf92b7aa\u0026amp;enrichSource\u003dY292ZXJQYWdlOzI3NzMxMzYzNztBUzoyMzQxNjMzOTU2MjQ5NjBAMTQzMjg0MDMxMjA0OA%3D%3D\u0026amp;el\u003d1_x_5\" /\u003e\u003c/div\u003e\n\u003cdiv class\u003d\"annotation\"\u003e\u003ca href\u003d\"http://www.researchgate.net/institution/McGill_University?enrichId\u003drgreq-5711aabc-c2e2-4093-a956-54facf92b7aa\u0026amp;enrichSource\u003dY292ZXJQYWdlOzI3NzMxMzYzNztBUzoyMzQxNjMzOTU2MjQ5NjBAMTQzMjg0MDMxMjA0OA%3D%3D\u0026amp;el\u003d1_x_6\" /\u003e\u003c/div\u003e\n\u003cdiv class\u003d\"annotation\"\u003e\u003ca href\u003d\"http://www.researchgate.net/profile/Wenjun_Ji?enrichId\u003drgreq-5711aabc-c2e2-4093-a956-54facf92b7aa\u0026amp;enrichSource\u003dY292ZXJQYWdlOzI3NzMxMzYzNztBUzoyMzQxNjMzOTU2MjQ5NjBAMTQzMjg0MDMxMjA0OA%3D%3D\u0026amp;el\u003d1_x_7\" /\u003e\u003c/div\u003e\n\u003cdiv class\u003d\"annotation\"\u003e\u003ca href\u003d\"http://www.researchgate.net/profile/Raphael_Viscarra_Rossel?enrichId\u003drgreq-5711aabc-c2e2-4093-a956-54facf92b7aa\u0026amp;enrichSource\u003dY292ZXJQYWdlOzI3NzMxMzYzNztBUzoyMzQxNjMzOTU2MjQ5NjBAMTQzMjg0MDMxMjA0OA%3D%3D\u0026amp;el\u003d1_x_4\" /\u003e\u003c/div\u003e\n\u003cdiv class\u003d\"annotation\"\u003e\u003ca href\u003d\"http://www.researchgate.net/profile/Raphael_Viscarra_Rossel?enrichId\u003drgreq-5711aabc-c2e2-4093-a956-54facf92b7aa\u0026amp;enrichSource\u003dY292ZXJQYWdlOzI3NzMxMzYzNztBUzoyMzQxNjMzOTU2MjQ5NjBAMTQzMjg0MDMxMjA0OA%3D%3D\u0026amp;el\u003d1_x_5\" /\u003e\u003c/div\u003e\n\u003cdiv class\u003d\"annotation\"\u003e\u003ca href\u003d\"http://www.researchgate.net/institution/The_Commonwealth_Scientific_and_Industrial_Research_Organisation?enrichId\u003drgreq-5711aabc-c2e2-4093-a956-54facf92b7aa\u0026amp;enrichSource\u003dY292ZXJQYWdlOzI3NzMxMzYzNztBUzoyMzQxNjMzOTU2MjQ5NjBAMTQzMjg0MDMxMjA0OA%3D%3D\u0026amp;el\u003d1_x_6\" /\u003e\u003c/div\u003e\n\u003cdiv class\u003d\"annotation\"\u003e\u003ca href\u003d\"http://www.researchgate.net/profile/Raphael_Viscarra_Rossel?enrichId\u003drgreq-5711aabc-c2e2-4093-a956-54facf92b7aa\u0026amp;enrichSource\u003dY292ZXJQYWdlOzI3NzMxMzYzNztBUzoyMzQxNjMzOTU2MjQ5NjBAMTQzMjg0MDMxMjA0OA%3D%3D\u0026amp;el\u003d1_x_7\" /\u003e\u003c/div\u003e\n\u003cdiv class\u003d\"annotation\"\u003e\u003ca href\u003d\"http://www.researchgate.net/profile/Zhou_Shi?enrichId\u003drgreq-5711aabc-c2e2-4093-a956-54facf92b7aa\u0026amp;enrichSource\u003dY292ZXJQYWdlOzI3NzMxMzYzNztBUzoyMzQxNjMzOTU2MjQ5NjBAMTQzMjg0MDMxMjA0OA%3D%3D\u0026amp;el\u003d1_x_4\" /\u003e\u003c/div\u003e\n\u003cdiv class\u003d\"annotation\"\u003e\u003ca href\u003d\"http://www.researchgate.net/profile/Zhou_Shi?enrichId\u003drgreq-5711aabc-c2e2-4093-a956-54facf92b7aa\u0026amp;enrichSource\u003dY292ZXJQYWdlOzI3NzMxMzYzNztBUzoyMzQxNjMzOTU2MjQ5NjBAMTQzMjg0MDMxMjA0OA%3D%3D\u0026amp;el\u003d1_x_5\" /\u003e\u003c/div\u003e\n\u003cdiv class\u003d\"annotation\"\u003e\u003ca href\u003d\"http://www.researchgate.net/institution/Zhejiang_University?enrichId\u003drgreq-5711aabc-c2e2-4093-a956-54facf92b7aa\u0026amp;enrichSource\u003dY292ZXJQYWdlOzI3NzMxMzYzNztBUzoyMzQxNjMzOTU2MjQ5NjBAMTQzMjg0MDMxMjA0OA%3D%3D\u0026amp;el\u003d1_x_6\" /\u003e\u003c/div\u003e\n\u003cdiv class\u003d\"annotation\"\u003e\u003ca href\u003d\"http://www.researchgate.net/profile/Zhou_Shi?enrichId\u003drgreq-5711aabc-c2e2-4093-a956-54facf92b7aa\u0026amp;enrichSource\u003dY292ZXJQYWdlOzI3NzMxMzYzNztBUzoyMzQxNjMzOTU2MjQ5NjBAMTQzMjg0MDMxMjA0OA%3D%3D\u0026amp;el\u003d1_x_7\" /\u003e\u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class\u003d\"page\"\u003e\u003cp /\u003e\n\u003cp\u003eEuropean Journal of Soil Science, 2015 doi: 10.1111/ejss.12271\n\u003c/p\u003e\n\u003cp\u003eSpecial issue article\n\u003c/p\u003e\n\u003cp\u003eImproved estimates of organic carbon using proximally\nsensed vis–NIR spectra corrected by piecewise direct\nstandardization\n\u003c/p\u003e\n\u003cp\u003eW. J i a,b,c, R . A . V i s c a r r a R o s s e l b \u0026amp; Z . S h i a\naInstitute of Applied Remote Sensing and Information Technology, College of Environmental and Resource Sciences, Zhejiang University,\n866 Yuhangtang Road, Hangzhou, 310058, China, bLand and Water Flagship, CSIRO Bruce E. Butler Laboratory, GPO Box 1666,\nCanberra, Australian Capital Territory 2601, Australia, and cDepartment of Bioresource Engineering, McGill University, 21,111 Lakeshore\nRoad, Montreal, H9X 3V9, Canada\n\u003c/p\u003e\n\u003cp\u003eSummary\n\u003c/p\u003e\n\u003cp\u003eWe investigated the use of piecewise direct standardization (PDS) to remove the effects of water and other\nenvironmental factors from proximally sensed (field) visible–near infrared (vis–NIR) spectra. Our hypothesis\nwas that the PDS-standardized field spectra can be used to predict soil carbon effectively with calibrations derived\nfrom existing spectroscopic databases of spectra recorded in the laboratory on dried, ground and sieved samples.\nIn our experiments we used field spectra recorded in situ with a portable spectrometer at 124 sites in 11 paddy\nfields in Zhejiang Province, China.We sampled the soil at these same sites, recorded their spectra in the laboratory\nand measured their soil organic carbon (SOC) contents with a conventional laboratory technique. Two-thirds of\nthe samples were used to relate the laboratory spectra to SOC by partial least squares regression (PLSR), and the\nremaining one-third was used as an independent validation dataset. We selected a representative set of samples\nfrom corresponding field and laboratory spectra that we could use as the PDS transfer set. Piecewise direct\nstandardization was used to relate each wavelength in the laboratory spectra to the corresponding wavelength\nand its neighbours in the field spectra. The field spectra of the validation samples were then corrected with\nPDS so that they acquired the characteristics of the spectra measured under laboratory conditions. The approach\nwas evaluated by (i) quantifying the similarity between the PDS-standardized spectra and their corresponding\nlaboratory spectra, (ii) measuring the accuracy of their SOC predictions on the independent validation dataset\nand (iii) comparing these results with those of direct standardization (DS). Both PDS and DS led to considerable\nimprovements in the predictions of SOC (R2 \u003d 0.71, R2 \u003d 0.60, respectively), compared with those with original\nfield spectra (R2 \u003d 0.03). However, fewer transfer samples were needed with PDS to obtain similar results.\n\u003c/p\u003e\n\u003cp\u003eIntroduction\n\u003c/p\u003e\n\u003cp\u003eAs the largest store of terrestrial organic carbon, soil has a profound\neffect on the global carbon cycle. Small changes in soil organic\ncarbon (SOC)might lead to large fluctuations in atmospheric green-\nhouse gas concentrations (Lal, 2004). Accurate determination of\nthe concentration and spatial variation in SOC is also important for\nprecision agriculture, assessment of soil erosion and degradation,\nand understanding biogeochemical cycles. To obtain information\nabout SOC, it is necessary to use methods of measurement that\n\u003c/p\u003e\n\u003cp\u003eCorrespondence: Z. Shi. E-mail: shizhou@zju.edu.cn\n\u003c/p\u003e\n\u003cp\u003eReceived 13 April 2015; revised version accepted 13 April 2015\n\u003c/p\u003e\n\u003cp\u003eare rapid, accurate, inexpensive and field based (Viscarra Rossel\n\u003c/p\u003e\n\u003cp\u003eet al., 2011).\n\u003c/p\u003e\n\u003cp\u003eProximal soil sensing (PSS) with visible and near infrared\n\u003c/p\u003e\n\u003cp\u003e(vis–NIR) spectroscopy can quantify SOC or soil organic mat-\n\u003c/p\u003e\n\u003cp\u003eter (SOM) efficiently in the field in stationary (Ben-Dor et al.,\n\u003c/p\u003e\n\u003cp\u003e2008; Guo et al., 2013; Ji et al., 2014) or mobile (Mouazen et al.,\n\u003c/p\u003e\n\u003cp\u003e2007; Christy, 2008; Bricklemyer \u0026amp; Brown, 2010) operations.\n\u003c/p\u003e\n\u003cp\u003eCompared with laboratory-based soil spectroscopic analysis, PSS\n\u003c/p\u003e\n\u003cp\u003emethods need little sample preparation, are non-destructive, rapid\n\u003c/p\u003e\n\u003cp\u003eand more affordable. However, the spectra that are measured on\n\u003c/p\u003e\n\u003cp\u003esoil samples under field conditions are often wet and affected by\n\u003c/p\u003e\n\u003cp\u003eother environmental factors such as surface roughness, voids and\n\u003c/p\u003e\n\u003cp\u003e© 2015 British Society of Soil Science 1\u003c/p\u003e\n\u003cp /\u003e\n\u003c/div\u003e\n\u003cdiv class\u003d\"page\"\u003e\u003cp /\u003e\n\u003cp\u003e2 W. Ji et al.\n\u003c/p\u003e\n\u003cp\u003etemperature, which might mask or alter the absorption features of\nSOC. Therefore, it is unlikely that vis–NIR spectra recorded in\nthe field could be used to predict SOC with spectroscopic models\nthat use spectra recorded in the laboratory on dried, ground and\nsieved samples.\nThe global need to develop large-scale (regional, national and\n\u003c/p\u003e\n\u003cp\u003econtinental) vis–NIR spectral databases has meant that consider-\nable time, effort and expense have been spent on developing robust\nspectroscopic models that can predict soil properties locally. To\nexploit these databases fully, it is necessary to develop methods\nthat can remove such environmental effects from proximally sensed\nfield spectra.\nIn a previous study (Ji et al., 2015), we investigated use of the\n\u003c/p\u003e\n\u003cp\u003edirect standardization (DS) algorithm (Wang et al., 1991) to remove\nthe effects of environmental factors on proximally sensed spectra.\nDirect standardization effectively accounted for the effects of soil\nwater and improved predictions of SOM with proximally sensed\nspectra using a calibration model derived from the Chinese soil\nspectral database. In Ji et al. (2015) we showed that the DS approach\nremoved those effects more effectively than external parameter\northogonalization (EPO) (Roger et al., 2003; Minasny et al., 2011)\nand spiking (Guerrero et al., 2010).\nPiecewise direct standardization (PDS) (Wang et al., 1991) is\n\u003c/p\u003e\n\u003cp\u003esimilar to DS in that PDS relates the absorbance of selected standard\nspectra recorded in the laboratory to their field spectra with the\nsame model structure. However, in PDS the standardization is\naccomplished by using neighbouring wavelengths that are within\na selected window size instead of an entire spectrum as in DS.\nTherefore, PDS will not only enable correction of differences in\nintensity but also wavelength shifts and peak broadening (Feudale\net al., 2002). Previous studies have used PDS successfully for the\nstandardization of vis–NIR spectra as well as electrochemical and\nnuclear magnetic resonance data (Bouveresse \u0026amp; Massart, 1996;\nHerrero \u0026amp; Ortiz, 1997; Alam et al., 2009).\nHere, we investigated the use of PDS to correct for the effects\n\u003c/p\u003e\n\u003cp\u003eof water and other environmental factors from proximally sensed\nspectra to improve the prediction of SOC content. Our hypothesis\nwas that PDS would outperform DS because the nonlinearities\n\u003c/p\u003e\n\u003cp\u003ebetween field and laboratory spectra are modelled better by several\nlocal multivariate models than by a single global multivariate\nmodel as used in DS. Our aims were to: (i) describe PDS and\nits use to correct for the differences between spectra recorded\nunder field conditions and in the laboratory, (ii) determine whether\nspectroscopic calibrations developed with laboratory spectra can be\nused to predict SOC using PDS-standardized field spectra and (iii)\ncompare PDS and DS.\n\u003c/p\u003e\n\u003cp\u003eMaterials and methods\n\u003c/p\u003e\n\u003cp\u003eProximal vis–NIR sensing, soil sampling and laboratory\nmeasurements\n\u003c/p\u003e\n\u003cp\u003eA total of 124 sensing sites were selected at random from within\n11 paddy fields (Table 1) around the China National Rice Research\nInstitute in Zhejiang province, China. This is amajor rice-producing\nregion with more than 2000 years of history of continuous cul-\ntivation (Wissing et al., 2011). The sites ranged in latitude from\n29∘03′N to 30∘10′N and in longitude from 119∘10′E to 122∘48′E.\nThe fields ranged in size from 0.25 to 1 ha and had been under rice\ncultivation for more than 10 years. The characterization of the 11\npaddy fields is described in Table 1. We recorded the soil spectra by\nproximal in situ and stationary vis–NIR sensing, and at the same\nsites we also collected soil samples. These samples were transported\nto our laboratory for further measurements. The paddy fields were\ndrained and the soil was allowed to dry for 10 days before sensing\nand sampling.\nAt each sensing site, the water content of the surface soil\n\u003c/p\u003e\n\u003cp\u003e(0–20 cm) was measured twice by a FieldScout TDR 300 soil\nmoisture meter (Spectrum Technologies Inc., Aurora, IL, USA)\nwith a 20-cm guide, after which the measurements were averaged\nand recorded. A cubic soil sampler (10 cm× 10 cm× 20 cm) was\nused to take the soil sample. Then, 10 spectra were recorded at\neach of three randomly selected locations on one vertical side of the\nsample within the A-horizon. The average of the 30 spectra would\nrepresent the spectrum for the site. Before measurement, the soil\nsample was flattened, its surface made even and areas with stones,\nroots or voids were avoided. Subsequently, we refer to these spectra\n\u003c/p\u003e\n\u003cp\u003eTable 1 Characterization of the paddy fields studied\n\u003c/p\u003e\n\u003cp\u003eField Na Soil genus Subgroup Texture classes Soil parent materials\n\u003c/p\u003e\n\u003cp\u003e1 8 Red–purple mudstone soil Submerged paddy soil Clay loam Purplish red sandstone slope deposit\n2 10 Redeposited red soil Hydrogric paddy soil Clay loam Red clay slope deposit\n3 6 Fluvigenic loamy soil Hydrogric paddy soil Clay loam Mainly streams alluvial deposit, also proluvial deposit\n4 6 Fluvigenic loamy soil Hydrogric paddy soil Clay loam Mainly alluvial deposit, also proluvial deposit\n5 5 Fluvigenic loamy soil Hydrogric paddy soil Clay loam Mainly alluvial deposit, also proluvial deposit\n6 8 Redeposited red–purple sandstone soil Hydrogric paddy soil Clay loam Purple sandy shale slope deposit\n7 8 Fluvigenic loamy soil Perco genic paddy soil Clay loam Recent river alluvial deposit\n8 24 Calcareous purple mudstone soil Perco genic paddy soil Loam clay Purple sandy shale slope deposit\n9 29 Blue clayey soil Degleyed paddy soil Silty clay Ancient lake and marine sediments\n10 10 Blue clayey soil Degleyed paddy soil Silty clay Ancient lake and marine sediments\n11 10 Blue clayey soil Degleyed paddy soil Silty clay Ancient lake and marine sediments\n\u003c/p\u003e\n\u003cp\u003eaN is the number of soil samples taken in individual fields.\n\u003c/p\u003e\n\u003cp\u003e© 2015 British Society of Soil Science, European Journal of Soil Science\u003c/p\u003e\n\u003cp /\u003e\n\u003c/div\u003e\n\u003cdiv class\u003d\"page\"\u003e\u003cp /\u003e\n\u003cp\u003ePiecewise direct standardization to correct proximally sensed spectra 3\n\u003c/p\u003e\n\u003cp\u003eas field spectra, orXF. In this way, we recorded a total of 124 spectra\nmeasured under field conditions.\nAfter the field spectroscopic measurement, samples of soil of\n\u003c/p\u003e\n\u003cp\u003e2 cm× 2 cm were taken at the three sensing locations within the\nlarger 10 cm× 10 cm× 20 cm sample, and then bagged, labelled and\ntaken to the laboratory. The 124 soil samples were air-dried, ground\nand sieved to a size fraction of less than 2mm. The vis–NIR spectra\nof these samples were recorded again under laboratory conditions.\nHereafter, we refer to these spectra as laboratory spectra, or XL.\nIn the laboratory, we also measured the SOC content of the 124\n\u003c/p\u003e\n\u003cp\u003esamples by dry combustion at 1100∘C with a multi N/C® 3100\n(Analytik Jena AG, Jena, Germany).\nFor the spectroscopic measurements we used a Fieldspec Pro\n\u003c/p\u003e\n\u003cp\u003eFR vis–NIR spectrometer and its high intensity contact probe\n(PANalytical, B.V, Boulder, Colorado, USA, formerly Analytical\nSpectral Devices) for both field and laboratory measurements. The\nspectroradiometer has a spectral range between 350 and 2500 nm,\nand a spectral resolution of 3 nm at 700 nm and 10 nm at 1400\nand 2100 nm. The spectra have a sampling resolution of 1 nm.\nA Spectralon® panel was used to calibrate the spectroradiometer\nbefore field and laboratory measurements were made at each site.\nNoisy spectra with wavelengths between 350–499 and\n\u003c/p\u003e\n\u003cp\u003e2451–2500 nm were removed. The reflectance spectra were\ntransformed to the apparent absorbance (log10 1/R), and the first\nderivatives were extracted to remove the additive baseline (Næs\net al., 2002).\n\u003c/p\u003e\n\u003cp\u003eSpectroscopic calibration of SOC\n\u003c/p\u003e\n\u003cp\u003eTwo-thirds of the data (82 samples) were used to perform our\nexperiments and the remaining third (42 samples) was used to test\ntheir outcomes. The selection was done with the Kennard-Stone\n(K-S) algorithm (Kennard \u0026amp; Stone, 1969). Partial least squares\nregression was used to predict SOC with a model derived from the\nlaboratory spectra of the 82 samples. The predictions were tested on\nthe 42 samples and their (i) laboratory spectra, (ii) field spectra, (iii)\nfield spectra processed with PDS and (iv) field spectra processed\nwith DS.\n\u003c/p\u003e\n\u003cp\u003eThe piecewise direct standardization (PDS) algorithm\n\u003c/p\u003e\n\u003cp\u003ePiecewise direct standardization was developed to transfer spectra\nmeasured with one instrument so that it would seem they were\nmeasured by another (Wang et al., 1991). We used the following\nsteps to apply the PDS in our study.\n\u003c/p\u003e\n\u003cp\u003e1 We selected a set of transfer samples from the experimental\ndataset (82 samples) with the K-S algorithm, and measured\nthe spectra under laboratory and field conditions. We used K-S\nbecause the transfer samples should be selected to represent\nthe range of variation in the experimental dataset and be able\nto characterize the differences between the field and laboratory\nspectra.\n\u003c/p\u003e\n\u003cp\u003e2 The PDS transfer parameters were determined by creating a\nlinear relationship between the laboratory and field spectra of the\n\u003c/p\u003e\n\u003cp\u003eFigure 1 Overview of the piecewise direct standardization (PDS) algo-\nrithm.\n\u003c/p\u003e\n\u003cp\u003etransfer samples; at each wavelength, the apparent absorbance of\ntransfer samples in the laboratory spectra was regressed against\nabsorbance in the field spectra that corresponded to the particular\nwavelength and its neighbours within a predefined window. The\npartial least squares regression (PLSR) algorithm (Wold et al.,\n2001) was used to formulate the regression models. The PDS\ntransfer matrix was formed by recording the set of regression\ncoefficients obtained from the PLSR models derived from within\nthe moving window along a spectrum from beginning to end.\n\u003c/p\u003e\n\u003cp\u003e3 The field spectra from the validation dataset were then stan-\ndardized using the PDS parameters so that they were directly\ncomparable to those measured in the laboratory, which removed\nthe environmental effects. An overview of the PDS algorithm is\nshown in Figure 1.\n\u003c/p\u003e\n\u003cp\u003eTo implement PDS one needs to know the number of transfer\nsamples, the optimal number of PLSR factors and the size of the\nwavelength window to use. The PDS algorithm is described in the\nAppendix. For DS, which uses the entire spectra instead of the\npredefined window for the transfer, only the number of transfer\nsamples is needed. We direct the reader to Ji et al. (2015) for details\nof the DS algorithm.\n\u003c/p\u003e\n\u003cp\u003eImplementation of PDS and comparison with DS\n\u003c/p\u003e\n\u003cp\u003eWe investigated the effects on PDS of different numbers of transfer\nsamples, the size of the wavelength window and the optimal number\nof PLSR factors:\n\u003c/p\u003e\n\u003cp\u003e1 With the K-Smethod we selected a series of transfer subsets, t, of\ncorresponding field and laboratory spectra from the experimental\ndataset, where t\u003d 3, 4, 5, 6, 8, 10, 15, 20, 25, 30, 35, 40, 45, 50,\n55, 60, 65, 70, 75, 80 and 82.\n\u003c/p\u003e\n\u003cp\u003e2 We applied PDS when j\u003d 1, 2, 5, 10, 15, 20, 25, and the\ncorresponding window sizes were ws\u003d 3, 5, 11, 21, 31, 41\n\u003c/p\u003e\n\u003cp\u003e© 2015 British Society of Soil Science, European Journal of Soil Science\u003c/p\u003e\n\u003cp /\u003e\n\u003c/div\u003e\n\u003cdiv class\u003d\"page\"\u003e\u003cp /\u003e\n\u003cp\u003e4 W. Ji et al.\n\u003c/p\u003e\n\u003cp\u003eand 51 nm, respectively. Because PDS works with a moving\nwindow of data, edge effects can occur at the beginning and\nend of the spectra. To make our results comparable, we removed\nwavelengths at 500–524 and 2426–2450 nm after each transfer\nprocedure (to a maximum j\u003d 25).\n\u003c/p\u003e\n\u003cp\u003e3 We used different numbers of PLSR factors (NF\u003d 1, 2, 3,\n5, 7 and 10) in the local PDS regressions. When 10 PLSR\nfactors were used to compute the transfer coefficient, at least\n12 transfer samples were needed in the PDS algorithm. When\ndetermining the optimal number of PLSR factors to make the\nresults comparable, PDS transfers were started with 15 transfer\nsamples.\n\u003c/p\u003e\n\u003cp\u003eFor comparability with PDS, we did the DS transfer with the same\nnumber of transfer samples.\n\u003c/p\u003e\n\u003cp\u003eSpectral assessment of the standardized field spectra\n\u003c/p\u003e\n\u003cp\u003eIn both PDS and DS, the field spectra were standardized for direct\ncomparison with the laboratory spectra. The spectral correlation\nfitting (F) and spectral angles mapper (𝜃) (Kruse et al., 1993) were\nused to measure their performance. The techniques are based on the\ndegree of agreement between the standardized PDS and DS field\nspectra and their corresponding laboratory spectra.\nThe spectral correlation fitting (F) is defined by:\n\u003c/p\u003e\n\u003cp\u003eF \u003d\nn\n\u003c/p\u003e\n\u003cp\u003en∑\ni\u003d1\n\u003c/p\u003e\n\u003cp\u003exLxF −\nn∑\ni\u003d1\n\u003c/p\u003e\n\u003cp\u003exL\n\u003c/p\u003e\n\u003cp\u003en∑\ni\u003d1\n\u003c/p\u003e\n\u003cp\u003exF√√√√√⎡⎢⎢⎣n\nn∑\ni\u003d1\n\u003c/p\u003e\n\u003cp\u003ex2L −\n\u003c/p\u003e\n\u003cp\u003e(\nn∑\ni\u003d1\n\u003c/p\u003e\n\u003cp\u003exL\n\u003c/p\u003e\n\u003cp\u003e)2⎤⎥⎥⎦\n⎡⎢⎢⎣n\n\u003c/p\u003e\n\u003cp\u003en∑\ni\u003d1\n\u003c/p\u003e\n\u003cp\u003ex2F −\n\u003c/p\u003e\n\u003cp\u003e(\nn∑\ni\u003d1\n\u003c/p\u003e\n\u003cp\u003exF\n\u003c/p\u003e\n\u003cp\u003e)2⎤⎥⎥⎦\n, (1)\n\u003c/p\u003e\n\u003cp\u003eand the spectral angles mapper (𝜃) by:\n\u003c/p\u003e\n\u003cp\u003e𝜃 \u003d arccos\n\u003c/p\u003e\n\u003cp\u003en∑\ni\u003d1\n\u003c/p\u003e\n\u003cp\u003exLxF√\nn∑\ni\u003d1\n\u003c/p\u003e\n\u003cp\u003ex2L\n\u003c/p\u003e\n\u003cp\u003e√\nn∑\ni\u003d1\n\u003c/p\u003e\n\u003cp\u003ex2F\n\u003c/p\u003e\n\u003cp\u003e, · · · 𝜃 ∈\n[\n0,\n\u003c/p\u003e\n\u003cp\u003e𝜋\n\u003c/p\u003e\n\u003cp\u003e2\n\u003c/p\u003e\n\u003cp\u003e]\n, (2)\n\u003c/p\u003e\n\u003cp\u003ewhere xL and xF are the spectral responses of laboratory and\nfield spectra at each wavelength, i, and n is the total number of\nwavelengths. Here, n\u003d 1901 (525–2425 nm).\n\u003c/p\u003e\n\u003cp\u003eValues of F close to 1 and the smaller the angle 𝜃 indicate greater\nsimilarity between the standardized field spectra and laboratory\nspectra.\n\u003c/p\u003e\n\u003cp\u003ePredictions of SOC with the standardized field spectra\n\u003c/p\u003e\n\u003cp\u003eWith the optimal parameters, the PDS- and DS-standardized field\nspectra were validated by the PLSR model formulated with the\nlaboratory spectra of the experimental dataset (82 samples). The\naccuracy of predicted SOC values obtained with PDS and DS was\ndetermined by the root mean squared error (RMSE), the coefficient\nof determination (R2) and the ratio of prediction to deviation\n(RPD). The predictability of the models was evaluated by Chang\net al. (2001), where calibrations with RPD \u0026gt; 2.0 are considered\ngood, those with RPD of 1.4–2.0 are considered moderate and\ncalibrations with RPD of less than 1.4 are considered unacceptable.\nThe statistical and chemometric analyses were performedwith the\n\u003c/p\u003e\n\u003cp\u003esoftware R 2.15.0 (R Development Core Team, 2012) and ParLeS\n3.1 (Viscarra Rossel, 2008).\n\u003c/p\u003e\n\u003cp\u003eResults\n\u003c/p\u003e\n\u003cp\u003eThe volumetric water content of the 124 soil samples was between\n40 and 50%, and the summary statistics of SOC (g kg−1) values are\ngiven in Table 2. The SOC values were transformed to common log-\narithms, log10, to ensure that the data had a near-normal distribution\nbefore spectroscopic modelling.\n\u003c/p\u003e\n\u003cp\u003eDetermination of parameters used in the PDS\n\u003c/p\u003e\n\u003cp\u003eIf the standardized spectra matched the laboratory spectra after\nspectral transfer by PDS and DS, the effects of water and other envi-\nronmental factors were deemed to have been removed successfully.\nIn PDS, first we assumed that most of the information was obtained\nby the first PLSR factor. Graphs of the spectral correlation fitting,\nF, and the spectral angles mapper, 𝜃, for different transfer sets and\nwindow sizes are shown in Figure 2(a,b, respectively). The similar-\nity between the standardized field spectra and the laboratory spectra\nincreased when the window size factor, j, was smaller than 15 nm\n(ws\u0026lt; 31 nm), whereas it stabilized when j was larger than 15 nm\n(ws\u0026gt; 31 nm). Therefore, in this study we used 31 nm as the win-\ndow size parameter for PDS. The two spectral matching factors, F\nand 𝜃, became more stable when we selected 20 or more samples\n\u003c/p\u003e\n\u003cp\u003eTable 2 Summary statistics of soil organic carbon (SOC) of the samples used in this study\n\u003c/p\u003e\n\u003cp\u003en Mean SD Median Min. Max. Skewness coefficient\n\u003c/p\u003e\n\u003cp\u003eSOC / g kg−1 124 16.40 7.98 14.49 4.12 36.29 422.81\n82 17.31 8.65 14.66 4.12 36.29 481.93\n42 14.63 6.19 14.42 4.13 32.99 117.45\n\u003c/p\u003e\n\u003cp\u003eLog10 (SOC g kg\n−1) 124 1.16 0.23 1.16 0.61 1.56 −0.01\n\u003c/p\u003e\n\u003cp\u003e82 1.18 0.23 1.17 0.61 1.56 −0.01\n42 1.12 0.21 1.16 0.62 1.52 −0.01\n\u003c/p\u003e\n\u003cp\u003e© 2015 British Society of Soil Science, European Journal of Soil Science\u003c/p\u003e\n\u003cp /\u003e\n\u003c/div\u003e\n\u003cdiv class\u003d\"page\"\u003e\u003cp /\u003e\n\u003cp\u003ePiecewise direct standardization to correct proximally sensed spectra 5\n\u003c/p\u003e\n\u003cp\u003e(a)\n\u003c/p\u003e\n\u003cp\u003e(b)\n\u003c/p\u003e\n\u003cp\u003eFigure 2 (a) The spectral correlation fitting (F) and (b) spectral anglesmap-\nper (𝜃) used to measure the standardization performance of the piecewise\ndirect standardization (PDS) algorithm with different numbers of transfer\nsamples and different window sizes.\n\u003c/p\u003e\n\u003cp\u003efrom the transfer set, whereas they fluctuated when fewer transfer\nsamples were used.\nFigure 3 shows the performance of the PDS-standardized field\n\u003c/p\u003e\n\u003cp\u003espectra with different numbers of transfer samples and PLSR factors\nfor a window size of 31 nm. Values of 𝜃 increased and those\nof F decreased as the number of PLSR factors increased. The\nperformance of PDS decreased as the number of PLSR factors\nincreased in the PDS regressions. The use of a single PLSR factor\nproduced the best transfer.\nFigure 4 shows the first-derivative absorbance spectra of three\n\u003c/p\u003e\n\u003cp\u003erandomly selected samples from the 42 validation samples\nmeasured under both laboratory and field conditions and their\nPDS-standardized (NF\u003d 1, j\u003d 15 nm and number of transfer sam-\nples \u003d 20) field spectra. The field and laboratory spectra differed\nmainly at the wavelengths of water absorption, around 1400 and\n1900 nm. With PDS, the standardized field spectra were similar\n\u003c/p\u003e\n\u003cp\u003e(a)\n\u003c/p\u003e\n\u003cp\u003e(b)\n\u003c/p\u003e\n\u003cp\u003eFigure 3 (a) The spectral correlation fitting (F) and (b) spectral anglesmap-\nper (𝜃) used to measure the standardization performance of the piecewise\ndirect standardization (PDS) algorithm with different numbers of transfer\nsamples and partial least squares regression (PLSR) factors with a window\nsize of 31 nm.\n\u003c/p\u003e\n\u003cp\u003eto the corresponding laboratory spectra (Figure 4) and almost\ncoincided. The field spectra standardized by PDS were similar\nto the original laboratory spectra, especially at wavelengths that\ncharacterize absorption related to soil water.\n\u003c/p\u003e\n\u003cp\u003eThe PDS algorithms for prediction of SOC\n\u003c/p\u003e\n\u003cp\u003eThe PDS-standardized field spectra were similar to their corre-\nsponding laboratory spectra (Figure 4); however, the predictability\nof spectroscopic models for SOC derived from them needs to be\ntested further.\nA PLSR model with 10 factors, determined by leave-one-out\n\u003c/p\u003e\n\u003cp\u003ecross-validation, was formulated with the laboratory spectra and\nSOC content of 82 samples (Table 3). Predictions of SOC for\nlaboratory spectra of the 42 validation samples had an R2 of 0.93,\nRMSE of 0.06 log10 (SOC g kg\n\u003c/p\u003e\n\u003cp\u003e−1) and RPD of 3.35, whereas the\npredictions of SOC from the field spectra were poor, with R2 of\n0.03, RMSE of 0.56 log10 (SOC g kg\n\u003c/p\u003e\n\u003cp\u003e−1) and RPD of 0.38.\n\u003c/p\u003e\n\u003cp\u003e© 2015 British Society of Soil Science, European Journal of Soil Science\u003c/p\u003e\n\u003cp /\u003e\n\u003c/div\u003e\n\u003cdiv class\u003d\"page\"\u003e\u003cp /\u003e\n\u003cp\u003e6 W. Ji et al.\n\u003c/p\u003e\n\u003cp\u003eFigure 4 First-derivative absorbance spectra\nof three samples selected at random from the\n42 validation samples: field spectra, labora-\ntory spectra and the field spectra standardized\nwith the piecewise direct standardization (PDS)\nalgorithm (NF\u003d 1, j\u003d 15 nm and number of\ntransfer samples \u003d 20). An offset has been\nadded to each spectrum for clarity.\n\u003c/p\u003e\n\u003cp\u003eTable 3 Prediction of soil organic carbon (SOC) for samples with labo-\nratory spectra, field spectra and standardized field spectra with piecewise\ndirect standardization (PDS) and direct standardization (DS) using partial\nleast squares regression (PLSR) calibrated on air-dried and ground training\nsamples\n\u003c/p\u003e\n\u003cp\u003eRMSE\n\u003c/p\u003e\n\u003cp\u003eValidation dataset R2\nLog10\n(SOC g kg−1)\n\u003c/p\u003e\n\u003cp\u003eSOCmin /\ng kg−1\n\u003c/p\u003e\n\u003cp\u003eSOCmax /\ng kg−1 RPD\n\u003c/p\u003e\n\u003cp\u003eLaboratory 42 0.93 0.06 0.61 5.38 3.35\nField 42 0.03 0.56 10.84 95.47 0.38\nField PDS 42 (t\u003d 20) 0.71 0.12 1.31 11.55 1.74\nField DS 42 (t\u003d 20) 0.52 0.16 1.84 16.17 1.36\n\u003c/p\u003e\n\u003cp\u003ePDS\u003d piecewise direct standardization; DS\u003d direct standardization;\nt\u003d number of transfer samples used in the transfer procedure.\nRMSE values at SOCmin and SOCmax are back-transformed to original scale.\n\u003c/p\u003e\n\u003cp\u003eThe accuracy of SOC predictions (RMSE) from validation of\nthe 42 field spectra standardized by PDS is shown in Figure 5.\nPredictions of SOC were relatively stable when 20 or more transfer\nsamples were used in the PDS transfer, and were similar to the\nresults obtainedwith spectral matching (Figure 2). The prediction of\nSOCwith 20 transfer samples and the PDS algorithmwasR2 \u003d 0.71,\nRMSE\u003d 0.12 log10 (SOC g kg−1) and RPD\u003d 1.74. This approach\npredicted SOC with an error of 1.31 g kg−1 for soil with small\nSOC contents (4.12 g kg−1) and 11.57 g kg−1 for soil rich in SOC\n(36.29 g kg−1).\n\u003c/p\u003e\n\u003cp\u003eComparison of PDS and DS\n\u003c/p\u003e\n\u003cp\u003eWe selected 50 transfer samples to use in the DS (Figures 2, 5)\nbecause the two spectral matching factors became more or\nless stable with this number. The prediction of SOC with\n\u003c/p\u003e\n\u003cp\u003eFigure 5 Accuracy of predictions when different numbers of transfer\nsamples were used in piecewise direct standardization (PDS) and direct\nstandardization (DS).\n\u003c/p\u003e\n\u003cp\u003eDS-standardized spectra and 50 transfer samples resulted in\nan R2 value of 0.60, a RMSE of 0.14 log10 (SOC g kg\n\u003c/p\u003e\n\u003cp\u003e−1) and RPD\nof 1.55. There were considerable improvements in the predictions\nmade with the DS-standardized spectra compared with those that\nused the original field spectra.\nWhen comparing the spectral matching parameters of the field\n\u003c/p\u003e\n\u003cp\u003espectra standardized by PDS and DS with laboratory spectra\n(Figure 2) with the same number of transfer samples regardless\nof the size of the wavelength window, field spectra standardized\nby PDS produced better results than those standardized by DS\n(Figure 2).\nComparisons of the prediction of SOC with PDS- and\n\u003c/p\u003e\n\u003cp\u003eDS-standardized field spectra are shown in Figure 5. When\n\u003c/p\u003e\n\u003cp\u003e© 2015 British Society of Soil Science, European Journal of Soil Science\u003c/p\u003e\n\u003cp /\u003e\n\u003c/div\u003e\n\u003cdiv class\u003d\"page\"\u003e\u003cp /\u003e\n\u003cp\u003ePiecewise direct standardization to correct proximally sensed spectra 7\n\u003c/p\u003e\n\u003cp\u003eFigure 6 Scatter plot of the predicted and observed values of soil organic\ncarbon (SOC).\n\u003c/p\u003e\n\u003cp\u003efewer than 50 samples were used in the transfer procedures, the\npredictions obtained from PDS-transferred field spectra were\nbetter than those from DS-standardized field spectra. The RMSE\nvalues with PDS-standardized spectra were smaller than those\nobtained with DS-standardized spectra. However, the accuracy of\npredictions of the two methods was comparable when 50 or more\nsamples were used. Similar predictions were obtained with 60\ntransfer samples between DS (R2 \u003d 0.62, RMSE\u003d 0.13 log10 (SOC\ng kg−1) and RPD\u003d 1.65) and PDS (R2 \u003d 0.70, RMSE\u003d 0.13 log10\n(SOC g kg−1) and RPD\u003d 1.68), which was also the case when\nmore transfer samples were used.\nPredictions of SOC by both PDS and DS methods were not as\n\u003c/p\u003e\n\u003cp\u003egood as those from laboratory spectra only. In terms of RMSE, R2\n\u003c/p\u003e\n\u003cp\u003eand RPD, the predictions made with PDS- and DS-standardized\nfield spectra were considerably better than those made with the\noriginal field spectra. The prediction of SOC with 20 transfer\nsamples and the PDS algorithm with the other two optimized\nparameters was more accurate than that with 50 transfer samples\n\u003c/p\u003e\n\u003cp\u003eand the DS method (R2 \u003d 0.60, RMSE\u003d 0.14 log10 (SOC g kg−1)\nand RPD\u003d 1.55), and was better than that obtained with the same\nnumber of transfer samples (t\u003d 20) with the DS method (R2 \u003d 0.52,\nRMSE\u003d 0.16 log10 (SOC g kg−1) and RPD\u003d 1.36). Figure 6 shows\nthe predicted values of SOC plotted against the observed values. To\nhelp with interpretation, we back-transformed the log10 predictions\nto the original scale.\n\u003c/p\u003e\n\u003cp\u003eDiscussion\n\u003c/p\u003e\n\u003cp\u003eArtefacts occur in the transfer spectra if the transfer parameters are\nnot well determined (de Noord, 1994). The main causes of artefacts\nare the size of the local wavelength region, the number of transfer\nsamples and the number of PLSR factors used in the local regres-\nsions. By comparing the similarity between the PDS-standardized\nfield spectra and laboratory spectra, we determined that, for our\nexperiment, a 31-nmwindow size was adequate. Asmany soil mate-\nrials have diagnostic absorption features that are 20–40 nm wide at\nhalf the band depth (Hunt, 1977), the field spectra within a window\nsize of 31 nm have stronger correlations with laboratory spectra than\nthose within the entire wavelength region. The results of the present\nstudy indicated that the first PLSR factor only should be used in\nthe local regressions in PDS transfer. This is because of collinearity\nof the spectra in the small wavelength domain with fewer transfer\nsamples.\nAs for the DS algorithm, a subset of samples that represented\n\u003c/p\u003e\n\u003cp\u003ethe entire experimental dataset well was needed to measure the\ndifference in the response of spectra measured under field and\nlaboratory conditions. Too few or too many samples in the transfer\nset can lead to under- or over-fitting, which reduces the performance\nof the standardization. Here, we determined the optimal number\nof transfer samples by using both the spectral similarities and the\nensuing prediction accuracies of SOC. The optimal number of\ntransfer samples used for the PDS algorithm was 20, whereas 50\ntransfer samples were needed for the DS algorithm. Better transfer\nperformance was achieved by PDS with fewer transfer samples\nbecause the local rank of each window in PDS was smaller than the\nrank of the total data matrix used in DS. Air-drying, grinding and\nmeasuring only 16% (20 out of 124) of the samples in the laboratory\nwill take less time than for the whole set. However, the ratio of\n\u003c/p\u003e\n\u003cp\u003eTable 4 Comparison of the performances of external parameter orthogonalization (EPO), direct standardization (DS), piecewise direct standardization (PDS)\nand spiking\n\u003c/p\u003e\n\u003cp\u003eRequirements EPO DS PDS Spiking\n\u003c/p\u003e\n\u003cp\u003eIf transfer samples are needed Y Y Y Y\nNumber of transfer samples needed\nIn this study – 50 (82, 42) 20 (82, 42) –\nMinasny et al. (2011) 60 (271, 20) – – –\nGe et al. (2014) 177 (2017, 58) – – –\nJi et al. (2015) 50 (1581, 54) 50 (1581, 54) – 50 (1581, 54)\n\u003c/p\u003e\n\u003cp\u003eSpectral pre-treatment N N Y or N N\nRecalibration Y N Y or N Y\n\u003c/p\u003e\n\u003cp\u003eThe numbers in parentheses represent the number of samples from the calibration and validation sets, respectively.\n\u003c/p\u003e\n\u003cp\u003e© 2015 British Society of Soil Science, European Journal of Soil Science\u003c/p\u003e\n\u003cp /\u003e\n\u003c/div\u003e\n\u003cdiv class\u003d\"page\"\u003e\u003cp /\u003e\n\u003cp\u003e8 W. Ji et al.\n\u003c/p\u003e\n\u003cp\u003etransfer samples to the whole dataset will depend on the variation\nin the soil and environment in the study region.\nIn this study, the local PDS regressions derived in small windows\n\u003c/p\u003e\n\u003cp\u003eenabled better and more detailed standardization of the laboratory\nand field spectra than DS, and PDS was good at correcting the more\nsubtle differences between them.More accurate predictions of SOC\nwere obtained with PDS than with DS when a smaller number of\ntransfer samples were used. However, for PDS we needed to take\nthe first derivatives of the spectra, whereas this was not necessary\nfor DS. The use of PDS with the original spectra produced artefacts\nin the wavelength regions that are commonly attributed to water.\nIn a previous study (Ji et al., 2015) we reported that DS performed\n\u003c/p\u003e\n\u003cp\u003ebetter than EPO and spiking for removing the effects of water\nand environmental factors from proximally sensed spectra. Table 4\nsummarizes the comparison between PDS, DS, EPO and spiking\nfor removing the effects of water and environmental factors from\nproximally sensed (field) spectra. Readers are directed to Ji et al.\n(2015) for details on DS, EPO and spiking.\n\u003c/p\u003e\n\u003cp\u003eConclusions\n\u003c/p\u003e\n\u003cp\u003eWe concluded that both PDS and DS can remove the effects of\nwater and other environmental factors from proximally sensed field\nspectra. The standardized field spectra can be used to predict SOC\neffectively from spectroscopic calibrations formulated with labora-\ntory spectra. Fewer transfer samples were needed to implement PDS\nadequately than to implement DS. In this study, the ratio of transfer\nsamples to the whole dataset was 16% for PDS and between 40 and\n50% for DS. Compared with DS, which broadly removes the effects\nof water and environmental factors on field spectra, PDS works\nmore locally. Therefore, it can be used to remove these effects, but\nit can also account for the more subtle differences between labo-\nratory and field spectra. Adequate spectral pre-treatment might be\nrequired before the use of PDS, whereas it is not necessary for DS.\nOur results indicate the potential of in situ proximal vis–NIR\n\u003c/p\u003e\n\u003cp\u003esensing to estimate rapidly the soil organic carbon content of\nlocal soil with calibrations developed with large laboratory-derived\nspectroscopic databases.\n\u003c/p\u003e\n\u003cp\u003eAcknowledgements\n\u003c/p\u003e\n\u003cp\u003eOur work was supported by the Research Fund of the State Key\nLaboratory of Soil and Sustainable Agriculture, Nanjing Institute\nof Soil Science, Chinese Academy of Science (Y412201430),\nNational Natural Science Foundation of China (No.41271234) and\nZhejiang University Project 985 for the PhD scholarship of Wenjun\nJi. Wenjun Ji thanks the Commonwealth Scientific and Industrial\nResearch Organisation’s (CSIRO) Land \u0026amp; Water Flagship for\nhosting her visit there. Raphael Viscarra Rossel also thanks the Land\n\u0026amp; Water Flagship for their support.\n\u003c/p\u003e\n\u003cp\u003eReferences\n\u003c/p\u003e\n\u003cp\u003eAlam, T.M., Alam, M.K., McIntyre, S.K., Volk, D.E., Neerathilingam,\nM. \u0026amp; Luxon, B.A. 2009. Investigation of chemometric instrumental\n\u003c/p\u003e\n\u003cp\u003etransfer methods for high-resolution NMR. Analytical Chemistry, 81,\n4433–4443.\n\u003c/p\u003e\n\u003cp\u003eBen-Dor, E., Heller, D. \u0026amp; Chudnovsky, A. 2008. A novel method of\nclassifying soil profiles in the field using optical means. Soil Science\nSociety of America Journal, 72, 1113–1123.\n\u003c/p\u003e\n\u003cp\u003eBouveresse, E. \u0026amp; Massart, D.L. 1996. Standardization of near-infrared\nspectrometric instruments: a review. Vibrational Spectroscopy, 11, 3–15.\n\u003c/p\u003e\n\u003cp\u003eBricklemyer, R.S. \u0026amp; Brown, D.J. 2010. On-the-go VisNIR: potential and\nlimitations for mapping soil clay and organic carbon. Computers \u0026amp;\nElectronics in Agriculture, 70, 209–216.\n\u003c/p\u003e\n\u003cp\u003eChang, C.W., Laird, D.A., Mausbach, M.J. \u0026amp; Hurburgh, C.R. 2001.\nNear-infrared reflectance spectroscopy – principal components regres-\nsion analyses of soil properties. Soil Science Society of America Journal,\n65, 480–490.\n\u003c/p\u003e\n\u003cp\u003eChristy, C.D. 2008. Real-time measurement of soil attributes using\non-the-go near infrared reflectance spectroscopy. Computers \u0026amp; Electron-\nics in Agriculture, 61, 10–19.\n\u003c/p\u003e\n\u003cp\u003eFeudale, R.N., Woody, N.A., Tan, H., Myles, A.J., Brown, S.D. \u0026amp; Ferre, J.\n2002. Transfer of multivariate calibration models: a review. Chemomet-\nrics \u0026amp; Intelligent Laboratory Systems, 64, 181–192.\n\u003c/p\u003e\n\u003cp\u003eGe, Y., Morgan, C.L. \u0026amp;Ackerson, J.P. 2014. VisNIR spectra of dried ground\nsoils predict properties of soils scanned moist and intact.Geoderma, 221,\n61–69.\n\u003c/p\u003e\n\u003cp\u003eGuerrero, C., Zornoza, R., Gomez, I. \u0026amp; Mataix-Beneyto, J. 2010. Spiking\nof NIR regional models using samples from target sites: effect of model\nsize on prediction accuracy. Geoderma, 158, 66–77.\n\u003c/p\u003e\n\u003cp\u003eGuo, Y., Ji, W., Wu, H. \u0026amp; Shi, Z. 2013. Estimation and mapping of soil\norganic matter based on Vis–NIR reflectance spectroscopy. Spectroscopy\n\u0026amp; Spectral Analysis, 33, 1135–1140 (in Chinese).\n\u003c/p\u003e\n\u003cp\u003eHerrero, A. \u0026amp; Ortiz, M.C. 1997. Multivariate calibration transfer applied\nto the routine polarographic determination of copper, lead, cadmium and\nzinc. Analytica Chimica Acta, 348, 51–59.\n\u003c/p\u003e\n\u003cp\u003eHunt, G.R. 1977. Spectral signatures of particulate minerals in the visible\nand near infrared. Geophysics, 42, 501–513.\n\u003c/p\u003e\n\u003cp\u003eJi, W., Shi, Z., Huang, J. \u0026amp; Li, S. 2014. In situ measurement of some soil\nproperties in paddy soil using visible and near-infrared spectroscopy.\nPLoS ONE, 9, 1–11.\n\u003c/p\u003e\n\u003cp\u003eJi, W., Viscarra Rossel, R.A. \u0026amp; Shi, Z. 2015. Accounting for the effects\nof water and the environment on proximally sensed vis–NIR spec-\ntra and their calibrations. European Journal of Soil Science, doi:\n10.1111/ejss.12239.\n\u003c/p\u003e\n\u003cp\u003eKennard, R.W. \u0026amp; Stone, L.A. 1969. Computer aided design of experiments.\nTechnometrics, 11, 137–148.\n\u003c/p\u003e\n\u003cp\u003eKruse, F.A., Lefkoff, A.B., Boardman, J.W., Heidebrecht, K.B., Shapiro,\nA.T., Barloon, P.J. et al. 1993. The spectral image processing system\n(SIPS) – interactive visualization and analysis of imaging spectrometer\ndata. Remote Sensing of Environment, 44, 145–163.\n\u003c/p\u003e\n\u003cp\u003eLal, R. 2004. Soil carbon sequestration impacts on global climate change\nand food security. Science, 304, 1623–1627.\n\u003c/p\u003e\n\u003cp\u003eMinasny, B., McBratney, A.B., Bellon-Maurel, V., Roger, J.-M., Gobrecht,\nA., Ferrand, L. et al. 2011. Removing the effect of soil moisture from\nNIR diffuse reflectance spectra for the prediction of soil organic carbon.\nGeoderma, 167–168, 118–124.\n\u003c/p\u003e\n\u003cp\u003eMouazen, A.M., Maleki, M.R., De Baerdemaeker, J. \u0026amp; Ramon, H. 2007.\nOn–line measurement of some selected soil properties using a VIS–NIR\nsensor. Soil \u0026amp; Tillage Research, 93, 13–27.\n\u003c/p\u003e\n\u003cp\u003eNæs, T., Isaksson, T., Fern, T. \u0026amp; Davies, T. 2002. A User-Friendly\nGuide to Multivariate Calibration and Classification. NIR Publications,\nChichester.\n\u003c/p\u003e\n\u003cp\u003e© 2015 British Society of Soil Science, European Journal of Soil Science\u003c/p\u003e\n\u003cp /\u003e\n\u003c/div\u003e\n\u003cdiv class\u003d\"page\"\u003e\u003cp /\u003e\n\u003cp\u003ePiecewise direct standardization to correct proximally sensed spectra 9\n\u003c/p\u003e\n\u003cp\u003ede Noord, O.E. 1994. Multivariate calibration standardization. Chemomet-\nrics \u0026amp; Intelligent Laboratory Systems, 25, 85–97.\n\u003c/p\u003e\n\u003cp\u003eR Development Core Team 2012. R: A Language and Environment\nfor Statistical Computing. R Foundation for Statistical Computing,\nVienna. ISBN 3-900051-07-0 [WWW document]. URL http://www.\nR–project.org [accessed on 1 March 2012].\n\u003c/p\u003e\n\u003cp\u003eRoger, J.-M., Chauchard, F. \u0026amp; Bellon-Maurel, V. 2003. EPO–PLS\nexternal parameter orthogonalisation of PLS application to\ntemperature–independent measurement of sugar content of intact\nfruits. Chemometrics \u0026amp; Intelligent Laboratory Systems, 66, 191–204.\n\u003c/p\u003e\n\u003cp\u003eViscarra Rossel, R.A. 2008. ParLeS: software for chemometric analysis of\nspectroscopic data. Chemometrics \u0026amp; Intelligent Laboratory Systems, 90,\n72–83.\n\u003c/p\u003e\n\u003cp\u003eViscarra Rossel, R.A., Adamchuk, V.I., Sudduth, K.A., McKenzie, N.J. \u0026amp;\nLobsey, C. 2011. Proximal soil sensing: an effective approach for soil\nmeasurements in space and time, Chapter 5. Advances in Agronomy, 113,\n237–283.\n\u003c/p\u003e\n\u003cp\u003eWang, Y., Veltkamp, D.J. \u0026amp; Kowalski, R. 1991. Multivariate instrument\nstandardization. Analytical Chemistry, 63, 2750–2756.\n\u003c/p\u003e\n\u003cp\u003eWang, Z., Dean, T. \u0026amp; Kowalski, B.R. 1995. Additive background correction\nin multivariate instrument standardization. Analytical Chemistry, 67,\n2379–2385.\n\u003c/p\u003e\n\u003cp\u003eWissing, L., Kölbl, A., Vogelsang, V., Fu, J.R., Cao, Z.H. \u0026amp;\nKögel–Knabner, I. 2011. Organic carbon accumulation in a 2000–year\nchronosequence of paddy soil evolution. Geoderma, 87, 376–385.\n\u003c/p\u003e\n\u003cp\u003eWold, S., Sjöström, M. \u0026amp; Eriksson, L. 2001. PLS–regression: a basic tool\nof chemometrics. Chemometrics \u0026amp; Intelligent Laboratory Systems, 58,\n109–130.\n\u003c/p\u003e\n\u003cp\u003eAppendix\n\u003c/p\u003e\n\u003cp\u003eThe piecewise direct standardization (PDS) algorithm\nused in this study\n\u003c/p\u003e\n\u003cp\u003eWe measured the transfer samples in both environments, field\nand laboratory, and used the spectral responses to create a linear\nrelationship between the two measurements as in the DS algorithm\n(Wang et al., 1991, 1995; Ji et al., 2015).\n\u003c/p\u003e\n\u003cp\u003eXL \u003d XFB + E, (A1)\n\u003c/p\u003e\n\u003cp\u003eBoth XL and XF matrices have a size of t× p, where t represents\nthe number of transfer spectra and p the number of wavelengths. We\ntested different numbers of transfer spectra, and we describe how\nwe did this next. The transfer matrix, B, of size p× p of unknown\nparameters accounts for the variation in both XL and XF, and E is\nthe residual matrix. A detailed description of the calculation of E is\ngiven in Wang et al. (1995) and Ji et al. (2015).\nTo calculate the transfer matrix B, first we removed the additive\n\u003c/p\u003e\n\u003cp\u003enoise denoted by E (Equation (1)), by mean centring the laboratory\nspectra XL and field spectra XF of the transfer samples. Therefore,\nEquation (A1) may be rewritten as:\n\u003c/p\u003e\n\u003cp\u003eXL \u003d XFB, (A2)\n\u003c/p\u003e\n\u003cp\u003eFigure A1 Structure of the diagonal transfer matrix B for the piecewise\ndirect standardization (PDS) algorithm showing the transfer coefficients.\n\u003c/p\u003e\n\u003cp\u003ewhere XL and XF represent the mean-centred spectra of XL and XF,\nrespectively.\nAs an improvement over the DS algorithm, PDS relates the\n\u003c/p\u003e\n\u003cp\u003espectral response of the transfer samples recorded at wavelength\ni in the laboratory (denoted by XLi) to the wavelengths in a window\naround i (denoted by XFi) recorded in the field (Wang et al., 1991).\nThe wavelength windows are made up of a set of spectral responses\nrecorded at each wavelength (denoted by xFi), and symmetrical\naround every wavelength in this study as follows:\n\u003c/p\u003e\n\u003cp\u003eXFi \u003d\n[\nxF(i−j), xF(i−j+1), ......, xF(i−1), xFi, xF(i+1), ......xF(i+j−1), xF(i+j)\n\u003c/p\u003e\n\u003cp\u003e]\n.\n\u003c/p\u003e\n\u003cp\u003e(A3)\nThe laboratory spectra at wavelength i were then regressed on\n\u003c/p\u003e\n\u003cp\u003eto the field spectra with data from within the selected window as\nfollows:\n\u003c/p\u003e\n\u003cp\u003exLi \u003d XFibi, (A4)\n\u003c/p\u003e\n\u003cp\u003ewhere xLi is a vector of the spectral value at wavelength i with a\nsize of t× 1, XFi has a size of t×ws, where ws is the window size,\nws\u003d 2j+ 1 and bi is a vector with the transfer coefficient for the ith\nwavelength with a size of ws× 1.\nPartial least squares regression was used to calculate the transfer\n\u003c/p\u003e\n\u003cp\u003ecoefficient bi. During movement of the ith wavelength from the\nbeginning to the end of the entire wavelength range, a set of the\ntransfer coefficients was obtained for each wavelength. The transfer\nmatrix was formed diagonally as follows:\n\u003c/p\u003e\n\u003cp\u003eB \u003d diag\n(\nbT1 ,b\n\u003c/p\u003e\n\u003cp\u003eT\n2 , … ,b\n\u003c/p\u003e\n\u003cp\u003eT\ni , … ,b\n\u003c/p\u003e\n\u003cp\u003eT\nm\n\u003c/p\u003e\n\u003cp\u003e)\n, (A5)\n\u003c/p\u003e\n\u003cp\u003ewhere m is the number of the wavelengths used in the PDS\nalgorithm and the other elements are zero. The transfer coefficients\nand the diagonal transfer matrix are shown in Figure A1.\nStandardization of the field spectra was done with the validation\n\u003c/p\u003e\n\u003cp\u003eset and the same model structure as in Equation (A1):\n\u003c/p\u003e\n\u003cp\u003eX′F42 \u003d XF42B + E. (A6)\n\u003c/p\u003e\n\u003cp\u003e© 2015 British Society of Soil Science, European Journal of Soil Science\u003c/p\u003e\n\u003cp /\u003e\n\u003c/div\u003e\n\u003c/body\u003e\u003c/html\u003e","X-TIKA:parse_time_millis":"145194","access_permission:assemble_document":"true","access_permission:can_modify":"true","access_permission:can_print":"true","access_permission:can_print_degraded":"true","access_permission:extract_content":"true","access_permission:extract_for_accessibility":"true","access_permission:fill_in_form":"true","access_permission:modify_annotations":"true","created":"Thu Oct 01 21:34:39 PDT 2015","ctakes:AnatomicalSiteMention":["R:1015:1016:C0035639","R:1039:1040:C0035639","scale:5184:5189:C0222045","roots:9213:9218:C0040452","less:11044:11048:C0227192","R:12072:12073:C0035639","root:17442:17446:C0040452","less:17760:17764:C0227192","R:17884:17885:C0035639","per:19757:19760:C0449201","ples:20659:20663:C0449200","per:20933:20936:C0449201","scale:23231:23236:C0222045","scale:26562:26567:C0222045","less:28418:28422:C0227192","R:33386:33387:C0035639","R:35733:35734:C0035639","R:35763:35764:C0035639","R:35819:35820:C0035639"],"ctakes:DateAnnotation":["April 2015:4068:4078:","March 2012:35945:35955:"],"ctakes:DiseaseDisorderMention":["conditions:2903:2913:C0012634","erosion:3859:3866:C0333307","conditions:4722:4732:C0012634","conditions:7428:7438:C0012634","cm:8653:8655:C1136033","cm:8774:8776:C1136033","cm:8865:8867:C1136033","cm:8872:8874:C1136033","cm:8879:8881:C1136033","conditions:10744:10754:C0012634","cm:10818:10820:C1136033","cm:10824:10826:C1136033","cm:10889:10891:C1136033","cm:10896:10898:C1136033","cm:10903:10905:C1136033","conditions:11132:11142:C0012634","conditions:13158:13168:C0012634","t:15051:15052:C0040715","t:15135:15136:C0040715","ws:15307:15309:C0043119,C0043119,C0043119","ws:18900:18902:C0043119,C0043119,C0043119","ws:18963:18965:C0043119,C0043119,C0043119","conditions:20578:20588:C0012634","sam:20655:20658:C1563296","t:22961:22962:C0040715","t:23006:23007:C0040715","t:23104:23105:C0040715","t:26315:26316:C0040715","conditions:27711:27721:C0012634","T:35326:35327:C0040715","T:35340:35341:C0040715","t:37546:37547:C0040715","t:37558:37559:C0040715","t:39159:39160:C0040715","t:39183:39184:C0040715","ws:39185:39187:C0043119,C0043119,C0043119","ws:39195:39197:C0043119,C0043119,C0043119","ws:39313:39315:C0043119,C0043119,C0043119"],"ctakes:FractionAnnotation":["2.65:432:436:","10.1111:444:451:","10.1111:842:849:","thirds:2260:2266:","third:2396:2401:","0.03:3387:3391:","0.25:8141:8145:","thirds:12202:12208:","third:12288:12293:",".1:13000:13002:",".3:14132:14134:","1.:14395:14397:","82.2:15215:15219:",".3:15683:15685:","2.0:17658:17661:","1.4:17700:17703:","2.0:17704:17707:","1.4:17770:17773:","2.15.0:17876:17882:","2.15:17876:17880:",".1:17926:17928:","16.40 7.98 14.49 4.12 36.29 422.8182 17.31 8.65 14.66 4.12 36.29 481.9342 14.63 6.19 14.42 4.13 32.99 117.45:19304:19412:","16.40 7.98 14.49 4.12 36.29 422.8182 17.31 8.65 14.66 4.12 36.29 481.9342 14.63 6.19 14.42 4.13 32.99:19304:19405:","16.40 7.98 14.49 4.12 36.29 422.8182 17.31 8.65 14.66 4.12 36.29 481.9342 14.63 6.19 14.42 4.13:19304:19399:","16.40 7.98 14.49 4.12 36.29 422.8182 17.31 8.65 14.66 4.12 36.29 481.9342 14.63 6.19 14.42:19304:19394:","16.40 7.98 14.49 4.12 36.29 422.8182 17.31 8.65 14.66 4.12 36.29 481.9342 14.63 6.19:19304:19388:","16.40 7.98 14.49 4.12 36.29 422.8182 17.31 8.65 14.66 4.12 36.29 481.9342 14.63:19304:19383:","16.40 7.98 14.49 4.12 36.29 422.8182 17.31 8.65 14.66 4.12 36.29 481.9342:19304:19377:","16.40 7.98 14.49 4.12 36.29 422.8182 17.31 8.65 14.66 4.12 36.29:19304:19368:","16.40 7.98 14.49 4.12 36.29 422.8182 17.31 8.65 14.66 4.12:19304:19362:","16.40 7.98 14.49 4.12 36.29 422.8182 17.31 8.65 14.66:19304:19357:","16.40 7.98 14.49 4.12 36.29 422.8182 17.31 8.65:19304:19351:","16.40 7.98 14.49 4.12 36.29 422.8182 17.31:19304:19346:","16.40 7.98 14.49 4.12 36.29 422.8182:19304:19340:","16.40 7.98 14.49 4.12 36.29:19304:19331:","16.40 7.98 14.49 4.12:19304:19325:","16.40 7.98 14.49:19304:19320:","16.40 7.98:19304:19314:","16.40:19304:19309:","0.23 1.16 0.61 1.56:19440:19459:","0.23 1.16 0.61:19440:19454:","0.23 1.16:19440:19449:","0.23:19440:19444:","0.0182 1.18 0.23 1.17 0.61 1.56:19461:19492:","0.0182 1.18 0.23 1.17 0.61:19461:19487:","0.0182 1.18 0.23 1.17:19461:19482:","0.0182 1.18 0.23:19461:19477:","0.0182 1.18:19461:19472:","0.0182:19461:19467:","0.0142 1.12 0.21 1.16 0.62 1.52:19494:19525:","0.0142 1.12 0.21 1.16 0.62:19494:19520:","0.0142 1.12 0.21 1.16:19494:19515:","0.0142 1.12 0.21:19494:19510:","0.0142 1.12:19494:19505:","0.0142:19494:19500:","0.01:19527:19531:","0.93:21887:21891:","0.06:21900:21904:","3.35:21935:21939:","0.56:22029:22033:","0.38:22064:22068:","0.06 0.61 5.38 3.35:22893:22912:","0.06 0.61 5.38:22893:22907:","0.06 0.61:22893:22902:","0.06:22893:22897:","0.56 10.84 95.47 0.38:22926:22947:","0.56 10.84 95.47:22926:22942:","0.56 10.84:22926:22936:","0.56:22926:22930:","0.71 0.12 1.31 11.55 1.74:22968:22993:","0.71 0.12 1.31 11.55:22968:22988:","0.71 0.12 1.31:22968:22982:","0.71 0.12:22968:22977:","0.71:22968:22972:","0.52 0.16 1.84 16.17 1.36:23013:23038:","0.52 0.16 1.84 16.17:23013:23033:","0.52 0.16 1.84:23013:23027:","0.52 0.16:23013:23022:","0.52:23013:23017:","5.:23354:23356:","0.12:23620:23624:","1.74:23653:23657:","1.31:23703:23707:","4.12:23748:23752:","11.57:23765:23770:","36.29:23799:23804:","0.60:24244:24248:","0.14:24260:24264:","1.55:24294:24298:","5.:24864:24866:","0.13:25576:25580:","1.65:25608:25612:","0.13:25640:25644:","1.68:25672:25676:","0.14:26201:26205:","1.55:26233:26237:","0.16:26358:26362:","1.36:26391:26395:",".41271234:31618:31627:","4443.:32134:32139:","1123.:32312:32317:","15.:32455:32458:","216.:32628:32632:","2001.:32690:32695:","490.:32846:32850:","19.:33014:33017:",".2002:33089:33094:","192.:33207:33211:","69.:33360:33363:","77.:33552:33555:","59.:33925:33928:","1977.:33939:33944:","513.:34042:34046:","11.:34205:34208:","10.1111:34409:34416:",".12239:34421:34427:","148.:34522:34526:","163.:34782:34786:","1627.:34896:34901:","124.:35140:35144:","2007.:35205:35210:","27.:35318:35321:","97.:35730:35733:","204.:36201:36205:","83.:36350:36353:","283.:36566:36570:","2756.:36687:36692:","2385.:36838:36843:","385.:37027:37031:","130.:37174:37178:","1.:39317:39319:"],"ctakes:MeasurementAnnotation":["20 cm:8650:8655:","10 cm:8862:8867:","10 cm:8869:8874:","20 cm:8876:8881:","2 cm:10822:10826:","10 cm:10886:10891:","10 cm:10893:10898:","20 cm:10900:10905:","1.31 g:23703:23709:","4.12 g:23748:23754:","11.57 g:23765:23772:","36.29 g:23799:23806:"],"ctakes:MedicationMention":["Water:1255:1260:C0043047,C0043047","water:1582:1587:C0043047,C0043047","water:6982:6987:C0043047,C0043047","aims:7319:7323:C2948600","water:8614:8619:C0043047,C0043047","water:17975:17980:C0043047,C0043047","water:18409:18414:C0043047,C0043047","water:20755:20760:C0043047,C0043047","water:21394:21399:C0043047,C0043047","water:29868:29873:C0043047,C0043047","water:30153:30158:C0043047,C0043047","water:30831:30836:C0043047,C0043047","Water:31799:31804:C0043047,C0043047","Water:31888:31893:C0043047,C0043047","copper:33862:33868:C0009968,C0009968","water:34283:34288:C0043047,C0043047"],"ctakes:ProcedureMention":["discussions:127:138:C0557061","operations:4495:4505:C0543467,C0543467,C0543467,C0543467,C0543467,C0543467,C0543467,C0543467,C0543467,C0543467","analysis:4556:4564:C0002778","EPO:6091:6094:C0202001","sampling:7688:7696:C0441621","sampling:8579:8587:C0441621","sampling:11764:11772:C0441621","K:12385:12386:C0202194","K:13092:13093:C0202194","K:13178:13179:C0202194","K:14999:15000:C0202194","procedure:23155:23164:C0184661,C0184661","procedures:25149:25159:C0184661,C0184661","grinding:28329:28337:C0185051","EPO:28553:28556:C0202001","EPO:28650:28653:C0202001","EPO:29953:29956:C0202001","EPO:30110:30113:C0202001","EPO:30283:30286:C0202001","support:31913:31920:C0344211,C0344211,C0344211,C0344211,C0344211,C0344211,C0344211","Analysis:33706:33714:C0002778","aided:34471:34476:C0021588,C0021588,C0021588,C0021588","analysis:34705:34713:C0002778","imaging:34717:34724:C0011923,C0079595,C0011923,C0011923","EPO:36011:36014:C0202001","analysis:36266:36274:C0002778"],"ctakes:RangeAnnotation":["20-cm:8771:8776:","3-900051:35871:35879:","07-0:35880:35884:"],"ctakes:RomanNumeralAnnotation":["i:1006:1007:","c:1012:1013:","V i:1023:1026:","V:1023:1024:","c:1029:1030:","l:1049:1050:","i:1063:1064:","i:2945:2946:","ii:3056:3058:","iii:3150:3153:","i:7334:7335:","ii:7463:7465:","iii:7613:7616:","cm:8653:8655:","IL:8756:8758:","cm:8774:8776:","cm:8865:8867:","cm:8872:8874:","cm:8879:8881:","cm:10818:10820:","cm:10824:10826:","cm:10889:10891:","cm:10896:10898:","cm:10903:10905:","XL:11206:11208:","C:11305:11306:","C:11322:11323:","V:11497:11498:","i:12604:12605:","ii:12628:12630:","iii:12648:12651:","iv:12690:12692:","did:16077:16080:","i:16624:16625:","i:16635:16636:","i:16642:16643:","i:16659:16660:","i:16670:16671:","i:16688:16689:","i:16699:16700:","i:16767:16768:","i:16777:16778:","i:16786:16787:","xL:16822:16824:","i:16910:16911:","M:31998:31999:","C:33373:33374:","Li:34075:34077:","V:34946:34947:","M:34960:34961:","M:35967:35968:","L:36852:36853:","V:36878:36879:","XL:37489:37491:","XL:37512:37514:","did:37704:37707:","XL:37812:37814:","XL:38089:38091:","XL:38182:38184:","XL:38346:38348:","XL:38394:38396:","XLi:38569:38572:","i:38611:38612:","i:38856:38857:","i:38865:38866:","i:38884:38885:","i:38898:38899:","i:38913:38914:","i:38924:38925:","i:38971:38972:","xLi:39068:39071:","xLi:39091:39094:","i:39143:39144:","m:39669:39670:","X:39961:39962:"],"ctakes:SignSymptomMention":["issue:868:873:C0033213","contents:2205:2213:C0423896","regression:2356:2366:C0684321","independent:2417:2428:C1299583","independent:3115:3126:C1299583","fluctuations:3652:3664:C0231239","concentrations:3696:3710:C0086045","concentration:3753:3766:C0086045","understanding:3887:3900:C0162340","near:4242:4246:C0475806","able:5277:5281:C1299581","effort:5288:5294:C0015264","resonance:6831:6840:C0231881","content:7083:7090:C0423896","history of:7956:7966:C0262926","history:7956:7963:C0262926","content:8620:8627:C0423896","Red:9403:9406:C0332575,C0332575","red:9468:9471:C0332575,C0332575","red:9512:9515:C0332575,C0332575","Red:9552:9555:C0332575,C0332575","red:9910:9913:C0332575,C0332575","content:11253:11260:C0423896","dry:11282:11285:C0151908","parameters:13394:13404:C0449381","regression:13854:13864:C0684321","regression:13927:13937:C0684321","parameters:14219:14229:C0449381","regressions:15771:15782:C0684321","transfer coefficient:15829:15849:C0429752","transfers:15999:16008:C0728827","F:16329:16330:C0015780,C0015780,C0015780,C0015780","fitting:16592:16599:C0009951,C0424576,C0009951,C0009951,C0009951,C0009951,C0009951,C0009951,C0009951,C0009951,C0009951,C0009951","F:16601:16602:C0015780,C0015780,C0015780,C0015780","F:16618:16619:C0015780,C0015780,C0015780,C0015780","F:16992:16993:C0015780,C0015780,C0015780,C0015780","parameters:17193:17203:C0449381","content:17981:17988:C0423896","near:18199:18203:C0475806","normal:18204:18210:C0558145","parameters:18271:18281:C0449381","fitting:18621:18628:C0009951,C0009951,C0009951,C0009951,C0009951,C0009951,C0009951,C0009951,C0009951,C0009951,C0424576,C0009951","F:18629:18630:C0015780,C0015780,C0015780,C0015780","fitting:19718:19725:C0009951,C0009951,C0009951,C0009951,C0009951,C0009951,C0009951,C0009951,C0009951,C0009951,C0009951,C0424576","F:19727:19728:C0015780,C0015780,C0015780,C0015780","F:20212:20213:C0015780,C0015780,C0015780,C0015780","regressions:20347:20358:C0684321","fitting:20894:20901:C0009951,C0009951,C0009951,C0009951,C0009951,C0009951,C0009951,C0009951,C0009951,C0009951,C0009951,C0424576","F:20903:20904:C0015780,C0015780,C0015780,C0015780","regression:21113:21123:C0684321","content:21771:21778:C0423896","regression:22732:22742:C0684321","contents:23738:23746:C0423896","parameters:24486:24496:C0449381","parameters:26634:26644:C0449381","diagnostic:27046:27056:C0011900","regressions:27382:27393:C0684321","drying:28321:28327:C0151908","regressions:29321:29332:C0684321","content:31270:31277:C0423896","work:31392:31396:C0043227","M:31998:31999:C0024554,C0024554,C0024554,C0024554","near:32373:32377:C0475806","mapping:32543:32550:C0428886","mapping:33610:33617:C0428886","near:34163:34167:C0475806","M:34960:34961:C0024554,C0024554,C0024554,C0024554","M:35967:35968:C0024554,C0024554,C0024554,C0024554","independent:36088:36099:C1299583","content:36121:36128:C0423896","regression:37079:37089:C0684321","transfer coefficients:38318:38339:C0429752","transfer coefficient:39255:39275:C0429752","regression:39341:39351:C0684321","movement:39409:39417:C0026649","diag:39625:39629:C0011900","m:39669:39670:C0024554,C0024554,C0024554,C0024554"],"ctakes:schema":"coveredText:start:end:ontologyConceptArr","date":"2015-05-15T15:49:21Z","dc:format":"application/pdf; version\u003d1.4","dc:title":"Improved estimates of organic carbon using proximally sensed vis--NIR spectra corrected by piecewise direct standardization","dcterms:created":"2015-10-02T04:34:39Z","dcterms:modified":"2015-05-15T15:49:21Z","meta:creation-date":"2015-10-02T04:34:39Z","meta:save-date":"2015-05-15T15:49:21Z","modified":"2015-05-15T15:49:21Z","pdf:PDFVersion":"1.4","pdf:encrypted":"false","producer":"Qt 5.3.0","resourceName":"10.1111_ejss.12271.pdf","rgid":"PB:277313637_AS:234163395624960@1432840312048","title":"Improved estimates of organic carbon using proximally sensed vis--NIR spectra corrected by piecewise direct standardization","xmp:CreatorTool":"þÿ","xmpTPg:NPages":"10"}]
